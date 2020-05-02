@@ -24,6 +24,7 @@ namespace BlazorUpgradeHelper.Server
     {
 
       services.AddControllersWithViews();
+      services.AddRazorPages();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -49,6 +50,7 @@ namespace BlazorUpgradeHelper.Server
 
       app.UseEndpoints(endpoints =>
       {
+        endpoints.MapRazorPages();
         endpoints.MapControllers();
         endpoints.MapFallbackToFile("index.html");
       });
