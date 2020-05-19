@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30011.22
+VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpgradeHelper.Server", "BlazorUpgradeHelper\Server\BlazorUpgradeHelper.Server.csproj", "{0385962B-E3E6-4124-8E0C-EC445B710823}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpgradeHelper.Server", "BlazorUpgradeHelper\Server\BlazorUpgradeHelper.Server.csproj", "{0C0FE7A1-F0A8-433A-982E-3D02402E64DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpgradeHelper.Client", "BlazorUpgradeHelper\Client\BlazorUpgradeHelper.Client.csproj", "{660C3E0E-CA89-47B7-A771-6482207ABAB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpgradeHelper.Client", "BlazorUpgradeHelper\Client\BlazorUpgradeHelper.Client.csproj", "{91225C34-1DF9-4A31-8353-EA75826ECB98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpgradeHelper.Shared", "BlazorUpgradeHelper\Shared\BlazorUpgradeHelper.Shared.csproj", "{94FD6095-0FD6-48A8-9D34-3157B2F80B1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpgradeHelper.Shared", "BlazorUpgradeHelper\Shared\BlazorUpgradeHelper.Shared.csproj", "{52EA154C-A112-447B-96DE-4825C3595710}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0385962B-E3E6-4124-8E0C-EC445B710823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0385962B-E3E6-4124-8E0C-EC445B710823}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0385962B-E3E6-4124-8E0C-EC445B710823}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0385962B-E3E6-4124-8E0C-EC445B710823}.Release|Any CPU.Build.0 = Release|Any CPU
-		{660C3E0E-CA89-47B7-A771-6482207ABAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{660C3E0E-CA89-47B7-A771-6482207ABAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{660C3E0E-CA89-47B7-A771-6482207ABAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{660C3E0E-CA89-47B7-A771-6482207ABAB4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{94FD6095-0FD6-48A8-9D34-3157B2F80B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94FD6095-0FD6-48A8-9D34-3157B2F80B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94FD6095-0FD6-48A8-9D34-3157B2F80B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94FD6095-0FD6-48A8-9D34-3157B2F80B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0FE7A1-F0A8-433A-982E-3D02402E64DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0FE7A1-F0A8-433A-982E-3D02402E64DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0FE7A1-F0A8-433A-982E-3D02402E64DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0FE7A1-F0A8-433A-982E-3D02402E64DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91225C34-1DF9-4A31-8353-EA75826ECB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91225C34-1DF9-4A31-8353-EA75826ECB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91225C34-1DF9-4A31-8353-EA75826ECB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91225C34-1DF9-4A31-8353-EA75826ECB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EA154C-A112-447B-96DE-4825C3595710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EA154C-A112-447B-96DE-4825C3595710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EA154C-A112-447B-96DE-4825C3595710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EA154C-A112-447B-96DE-4825C3595710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {82E78277-11F4-4A4E-A67C-984600FD995D}
+		SolutionGuid = {328BEACA-648D-421A-A511-E656CE0FF0B5}
 	EndGlobalSection
 EndGlobal
